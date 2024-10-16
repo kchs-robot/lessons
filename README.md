@@ -2,11 +2,11 @@
 ## Team 2393 | [team2393.com](https://team2393.com)
 - Looking for the dashboard? Click [here](https://dashboard.team2393.com)
 
-# You can find each lesson listed as "day#" in concept 1. Below you can find which day corresponds to which date.
+## You can find each lesson listed as "day#" in concept 1. Below you can find which day corresponds to which date.
 You will also be able to find the corresponding video (yippie)
 ## Lesson Map
 
-# Unit 1: Basics
+## Unit 1: Basics
 Yes these are considered units, this is a class but not (YIPPIE!!!)
 ### Day 1, Wednesday, October 16, 2024
 - If you missed anything, let me know by texting me :)
