@@ -2,7 +2,7 @@
 ## Team 2393 | [team2393.com](https://team2393.com)
 - Looking for the dashboard? Click [here](https://dashboard.team2393.com)
 
-## You can find each lesson listed as "day#" in concept 1. Below you can find which day corresponds to which date.
+## You can find each lesson listed as "day#" in unit 1. Below you can find which day corresponds to which date.
 You will also be able to find the corresponding video (yippie)
 ## Lesson Map
 
