@@ -3,7 +3,7 @@
 - Looking for the dashboard? Click [here](https://dashboard.team2393.com)
 
 ## You can find each lesson listed as "day#" in unit 1. Below you can find which day corresponds to which date.
-You will also be able to find the corresponding video (yippie)
+You will also be able to find the corresponding video
 ## Lesson Map
 
 ## Unit 1: Basics
