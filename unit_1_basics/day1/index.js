@@ -16,13 +16,13 @@ let is also a changable variable. It'll allow you to change it's content while t
 // Say for example I want to use a var
 
 var myVariable = 1;
-console.log(myVariable) // Returns 1
+console.log("myVariable returns", myVariable) // Returns 1
 
 // Generally speaking, don't use var.
 
 // Let's look at const. See we're defining it as 1.
 const myConstant = 1;
-console.log(myConstant); // Returns 1
+console.log("myConstant returns", myConstant); // Returns 1
 
 // Let's use try catch to attempt to reassign a constant.
 try {
