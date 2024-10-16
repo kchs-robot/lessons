@@ -12,9 +12,13 @@ Yes these are considered units, this is a class but not (YIPPIE!!!)
 - If you missed anything, let me know by texting me :)
 ### Day 2, Thursday, October 17, 2024
 - Recording: (To Be Posted)
-### Day 3, Thursday, October 24, 2024
+
+## Unit 2: Arrays, Objects, and JSON
+### Day 1 , Thursday, October 24, 2024
 - Recording: (To Be Posted)
-### Day 4 !IMPORTANT! Thursday, October 31, 2024 is my birthday. There will be NO ZOOM MEETING. There will be a lesson and (maybe) a video.
+### Day 2 !IMPORTANT! Thursday, October 31, 2024 is my birthday. There will be NO ZOOM MEETING. There will be a lesson and (maybe) a video.
 - Recording:  (To Be Posted)
-### Day 5, Thursday, November 7, 2024
+
+## Unit 3: (I dont know yet)
+### Day 1, Thursday, November 7, 2024
 - Recording:   (To Be Posted)
