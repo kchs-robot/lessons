@@ -1,7 +1,6 @@
 ## Unit 1
 This will teach you the very basic parts of JavaScript. 
 
-### IMPORTANT DO THE FOLLOWING
+### Important!! Install these packages
 
-In Command Prompt do:
 `npm i -g fs path readline`
