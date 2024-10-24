@@ -1,0 +1,12 @@
+{
+  "name": "unit_1_basics",
+  "version": "1.0.0",
+  "description": "This will teach you the very basic parts of JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
