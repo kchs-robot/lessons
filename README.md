@@ -1,4 +1,5 @@
 # Knoxville Catholic High School | JavaScript Lessons :)
+## This repo is deprecated and will not be maintained
 ## Team 2393 | [team2393.com](https://team2393.com)
 - Looking for the dashboard? Click [here](https://dashboard.team2393.com)
 
